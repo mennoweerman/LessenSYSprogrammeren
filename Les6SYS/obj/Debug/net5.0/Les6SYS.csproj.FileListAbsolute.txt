@@ -1,0 +1,16 @@
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.exe
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.deps.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.runtimeconfig.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.runtimeconfig.dev.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\ref\Les6SYS.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\bin\Debug\net5.0\Les6SYS.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.csproj.AssemblyReference.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.AssemblyInfoInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.AssemblyInfo.cs
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.csproj.CoreCompileInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\ref\Les6SYS.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\ICharacter\Les6SYS\Les6SYS\obj\Debug\net5.0\Les6SYS.genruntimeconfig.cache
