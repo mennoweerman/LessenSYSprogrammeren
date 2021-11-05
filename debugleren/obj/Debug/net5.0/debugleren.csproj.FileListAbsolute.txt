@@ -1,0 +1,16 @@
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.exe
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.deps.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.runtimeconfig.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.runtimeconfig.dev.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\ref\debugleren.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\bin\Debug\net5.0\debugleren.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.csproj.AssemblyReference.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.AssemblyInfoInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.AssemblyInfo.cs
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.csproj.CoreCompileInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\ref\debugleren.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\SYS programmeren\debugleren\obj\Debug\net5.0\debugleren.genruntimeconfig.cache
